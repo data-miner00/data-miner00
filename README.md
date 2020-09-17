@@ -53,7 +53,7 @@
 
 </details>
 
-[website]: https://ignitethespark.rf.gd
+[website]: http://ignitethespark.rf.gd/
 [twitter]: https://twitter.com/Soonampii
 [youtube]: https://www.youtube.com/channel/UClkqHAQrFl_5-VXBikbcvrg
 [instagram]: https://www.instagram.com/mumkchong
