@@ -14,7 +14,6 @@
 
 [<img align="left" alt="ignitethespark.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mumk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Mumk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mumk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mumk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Mumk | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
@@ -57,8 +56,7 @@
 
 </details>
 
-[website]: http://ignitethespark.rf.gd/
-[twitter]: https://twitter.com/Soonampii
+[website]: https://data-miner00.github.io/IgniteTheSpark/
 [youtube]: https://www.youtube.com/channel/UClkqHAQrFl_5-VXBikbcvrg
 [instagram]: https://www.instagram.com/mumkchong
 [linkedin]: https://www.linkedin.com/in/chong-mum-khong-343b3b1b0/
