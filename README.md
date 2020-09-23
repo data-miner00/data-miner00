@@ -16,7 +16,6 @@
 [<img align="left" alt="Mumk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mumk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mumk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mumk | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
 [<img align="left" alt="Mumk | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 
 <br />
@@ -60,6 +59,5 @@
 [youtube]: https://www.youtube.com/channel/UClkqHAQrFl_5-VXBikbcvrg
 [instagram]: https://www.instagram.com/mumkchong
 [linkedin]: https://www.linkedin.com/in/chong-mum-khong-343b3b1b0/
-[blogger]: https://mumkf.blogspot.com/2020/06/e-resume.html
 [discord]: https://support.discord.com/hc/en-us/profiles/391025764832
 [reddit]: https://www.reddit.com/user/Sseyh
