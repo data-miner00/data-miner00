@@ -23,7 +23,7 @@ Selamat datang ke halaman saya. Saya Mum Khong berasal dari negeri Melaka dan sa
 ---
 discord - mumk.eth
 
-website - https://portfolio-six-ecru-52.vercel.app/
+website - https://mumk.vercel.app/
 
 `lts` - https://twitter.com/Has66771004
 
