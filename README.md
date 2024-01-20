@@ -23,10 +23,16 @@ Selamat datang ke halaman saya. Saya Mum Khong berasal dari negeri Melaka dan sa
 ---
 discord - mumk.eth
 
-website - https://mumk.vercel.app/
+website - https://mumk.dev
+
+blog - https://blog.mumk.dev
+
+book - https://book.mumk.dev
+
+hn - https://hn.mumk.dev
 
 `lts` - https://twitter.com/Has66771004
 
-`depracated` - https://www.reddit.com/user/Sseyh
+`deprecated` - https://www.reddit.com/user/Sseyh
 
 `deprecated` - https://www.linkedin.com/in/chong-mum-khong-343b3b1b0/
