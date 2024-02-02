@@ -20,7 +20,13 @@ Selamat datang ke halaman saya. Saya Mum Khong berasal dari negeri Melaka dan sa
 
 저는 한국말로 아직 잘 못하니까 한국말 할 수 있는 친구를 너무 싶습니다. 저랑 친구가 되어줄래? 우리는 대화를 할때 한국어와 영어를 사용할 수 있어요~
 
----
+<table>
+  <tr>
+    <td>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=quantifiend&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+    </td>
+    <td>
 discord - mumk.eth
 
 website - https://mumk.dev
@@ -36,3 +42,8 @@ hn - https://hn.mumk.dev
 `deprecated` - https://www.reddit.com/user/Sseyh
 
 `deprecated` - https://www.linkedin.com/in/chong-mum-khong-343b3b1b0/
+    </td>
+  </tr>
+</table>
+
+
