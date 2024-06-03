@@ -33,7 +33,9 @@ website - https://mumk.dev
 
 blog - https://blog.mumk.dev
 
-book - https://book.mumk.dev
+notes - https://notes.mumk.dev
+
+book (`deprecated`) - https://book.mumk.dev
 
 hn - https://hn.mumk.dev
 
