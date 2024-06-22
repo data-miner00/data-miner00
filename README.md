@@ -24,7 +24,7 @@ Selamat datang ke halaman saya. Saya Mum Khong berasal dari negeri Melaka dan sa
   <tr>
     <td>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=quantifiend&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=quantifiend&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false)](https://github.com/kittinan/spotify-github-profile)
     </td>
     <td>
 discord - mumk.eth
