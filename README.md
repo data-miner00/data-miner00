@@ -1,4 +1,4 @@
-Hello I am Shaun and welcome to my profile! I am a software engineer currently working at Experian Services Malaysia. I worked primarily on back-ends with C# and .NET (and Python). I am a curious cat (yes I love cats) and I am interested in everything, particularly programming technologies and spoken languages. During my leisure, I dabbled in front-end development as well (like a lot) and worked a little (like a lot) on my side projects.
+Hello I am Shaun and welcome to my profile! I am a software engineer currently working at Experian Services Malaysia. I worked primarily on back-ends with C#, .NET and Python. I am a curious cat (yes I love cats) and I am interested in everything, particularly programming technologies and spoken languages. During my leisure, I love to work on my side projects.
 
 ## Xin chào
 
@@ -27,7 +27,7 @@ Selamat datang ke halaman saya. Saya Mum Khong berasal dari negeri Melaka dan sa
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=quantifiend&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false)](https://github.com/kittinan/spotify-github-profile)
     </td>
     <td>
-discord - mumk.eth
+discord - mumk.jpg
 
 website - https://mumk.dev
 
@@ -35,15 +35,19 @@ blog - https://blog.mumk.dev
 
 notes - https://notes.mumk.dev
 
-book (`deprecated`) - https://book.mumk.dev
-
 hn - https://hn.mumk.dev
 
-`lts` - https://twitter.com/Has66771004
+linkedin - https://www.linkedin.com/in/chong-mum-khong-343b3b1b0/
 
-`deprecated` - https://www.reddit.com/user/Sseyh
+bsky - https://bsky.app/profile/pwsh.bsky.social
 
-`deprecated` - https://www.linkedin.com/in/chong-mum-khong-343b3b1b0/
+mastodon - https://mastodon.social/@mumk
+
+x - https://x.com/Has66771004
+
+reddit - https://www.reddit.com/user/Sseyh
+
+book (`deprecated`) - https://book.mumk.dev
     </td>
   </tr>
 </table>
