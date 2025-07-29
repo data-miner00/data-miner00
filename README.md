@@ -6,7 +6,7 @@ Xin chào, tôi là Minh Huy đến từ Malaysia, rất vui được gặp bạ
 
 ## Selamat Datang
 
-Selamat datang ke halaman saya. Saya Mum Khong berasal dari negeri Melaka dan saya berumur 25 tahun ini. Walaupun saya orang Malaysia, tetapi kawan berbangsa Melayu dan India memang tiada beberapa sahaja, apatah lagi kawan-kawan saya pun tidak beramai juga. Sedihnya :'). Bahasa saya pun tidak berfasih dan ini amat memalukan. Oleh demikian, saya akan bertungkus lumus untuk memperbaiki bahasa saya, bermula dengan membaca kamus bergambar yang saya beli baru-baru ini.
+Selamat datang ke halaman saya. Nama saya Mum Khong dan berasal dari negeri Melaka. Saya berumur 27 tahun ini. Walaupun saya tidak begitu fasih dalam Bahasa Melayu, saya sedang bertungkus-lumus untuk memperkasakan penguasaan saya dalam bahasa yang menawan ini. Idola saya adalah [Dolla](https://www.youtube.com/channel/UCX7PohTmPpZqgLY6ez6PP5g)! Mereka adalah inspirasi kepada saya untuk belaja Bahasa Sepanyol dan Bahasa Portugis baru-baru ini.
 
 ## こんにちは
 
@@ -19,6 +19,14 @@ Selamat datang ke halaman saya. Saya Mum Khong berasal dari negeri Melaka dan sa
 안녕하십니까 여러분. 저는 정은지 입니다. 말레이시아 출신입니다. 만나서 방갑습니다. 오늘은 날씨가 좋네요? 저는 12살 때 한국어를 처음 접했습니다. 그때부터 한국어를 오락가락 배우고있습니다. 한국어는 정말 아름다운 언어입니다. 그래서, 저는 너무 많이 좋아해요.
 
 저는 한국말로 아직 잘 못하니까 한국말 할 수 있는 친구를 너무 싶습니다. 저랑 친구가 되어줄래? 우리는 대화를 할때 한국어와 영어를 사용할 수 있어요~
+
+## Olá mundo
+
+Olá! Chamo-me Shaun. Tenho 27 anos, sou da Malaca Malásia e estou a aprender português. Muito prazer! Gostaria de visitar Portugal e o Brasil no futuro. Também temos descendentes de portugueses aqui em Malaca, o que é fascinante. Adoro aprender coisas novas. Se tu és igual, não tenhas vergonha e diz olá!
+
+## ¡Buenos días!
+
+Hola, me llamo Shaun. Soy de Malasia. Me interesé en el español después de escuchar una canción con título en español, "[Dámelo](https://www.youtube.com/watch?v=3F0xE9WGzeI)", de mi grupo favorito, Dolla. Fue una mezcla perfecta de malayo y español, ¡y me encantó muchísimo! También me interesa la cultura latina y me gustaría aprender más. ¡Mucho gusto!
 
 <table>
   <tr>
